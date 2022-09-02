@@ -6,6 +6,6 @@ Name:K.Pushpa*/
 #include<stdio.h>
 int main()
 {
-  printf("Welcome");
+  printf("Welcome\n");
   return 0;
 }
