@@ -4,8 +4,3 @@
    Date of Creation: 9-09-2022
    Date of Execution: 9-09-2022
 */
- // Source Code
-    #include <stdio.h>
-    int main(){
-	printf("Hello World\n");
- }
