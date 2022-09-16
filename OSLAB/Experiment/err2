@@ -1,0 +1,3 @@
+FCFS.c:2:1: warning: return type defaults to ‘int’ [-Wimplicit-int]
+    2 | main()
+      | ^~~~

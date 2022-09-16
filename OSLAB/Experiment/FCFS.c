@@ -1,12 +1,11 @@
 #include<stdio.h>
-#include<conio.h>
-main()
+int main()
 {
   int bt[20],wt[20],tat[20],i,n;
   float wtavg, tatavg;
   //clrscr();
   printf("\nEnter the number of processes -- ");
-  scanf("%d",&bt[i]);
+  scanf("%d",&n);
   for(i=0;i<n;i++)
   {
     printf("\nEnter Brust Time for Process %d -- ",i);
